@@ -20,8 +20,8 @@ pip install -r requirements.txt
 python linkedin_scraper.py --keyword "nasa" --limit 500
 ```
 
---keyword = job title
---limit = number of profiles
+* *--keyword = job title*
+* *--limit = number of profiles*
 
 
 ## Contributing
